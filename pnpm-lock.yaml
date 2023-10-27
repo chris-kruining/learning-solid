@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@solidjs/meta': ^0.28.0
+  '@solidjs/meta': ^0.29.0
   '@solidjs/router': ^0.6.0
   '@vanilla-extract/css': ^1.9.1
   '@vanilla-extract/sprinkles': ^1.5.0
@@ -14,12 +14,12 @@ specifiers:
   vite: ^4.0.0
 
 dependencies:
-  '@solidjs/meta': 0.28.2_solid-js@1.6.2
+  '@solidjs/meta': 0.29.0_solid-js@1.6.2
   '@solidjs/router': 0.6.0_solid-js@1.6.2
   '@vanilla-extract/css': 1.9.1
   '@vanilla-extract/sprinkles': 1.5.0_@vanilla-extract+css@1.9.1
   solid-js: 1.6.2
-  solid-start: 0.2.5_swti6gbjaholjx7yrp5tz4wpbm
+  solid-start: 0.2.5_vayge5fya5hj6utccfllbgluta
   undici: 5.12.0
 
 devDependencies:
@@ -1447,10 +1447,10 @@ packages:
   /@sideway/pinpoint/2.0.0:
     resolution: {integrity: sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==}
 
-  /@solidjs/meta/0.28.2_solid-js@1.6.2:
-    resolution: {integrity: sha512-avlLgBPdk4KVxzRGFlYp/MIJo8B5jVgXPgk6OUnUP8km21Z+ovO+DUd7ZPA7ejv8PBdWi9GE3zCzw8RU2YuV2Q==}
+  /@solidjs/meta/0.29.0_solid-js@1.6.2:
+    resolution: {integrity: sha512-CXgXzzx0n4dHyr+oFI7pB6eJf2yYq0l16joBoALcMSNMKVB150iJb5iefpwMX1Un9S+TWNZrAXw8XglIK73q9A==}
     peerDependencies:
-      solid-js: '>=1.4.0'
+      solid-js: '>=1.8.4'
     dependencies:
       solid-js: 1.6.2
 
@@ -2759,7 +2759,7 @@ packages:
       polka: 1.0.0-next.22
       rollup: 2.79.1
       sirv: 2.0.2
-      solid-start: 0.2.5_swti6gbjaholjx7yrp5tz4wpbm
+      solid-start: 0.2.5_vayge5fya5hj6utccfllbgluta
       terser: 5.15.1
       undici: 5.12.0
       vite: 4.0.0
@@ -2767,7 +2767,7 @@ packages:
       - supports-color
     dev: true
 
-  /solid-start/0.2.5_swti6gbjaholjx7yrp5tz4wpbm:
+  /solid-start/0.2.5_vayge5fya5hj6utccfllbgluta:
     resolution: {integrity: sha512-G1Iyb2ECulsCsewr12hueaCGvB+FQPylcYq9SvsCy8A2Lpyj5KcB9ic7pAKtEbByBAa318MqvBFEmL4eKS8mhw==}
     hasBin: true
     peerDependencies:
@@ -2782,7 +2782,7 @@ packages:
       '@babel/preset-env': 7.20.2_@babel+core@7.20.2
       '@babel/preset-typescript': 7.18.6_@babel+core@7.20.2
       '@babel/template': 7.18.10
-      '@solidjs/meta': 0.28.2_solid-js@1.6.2
+      '@solidjs/meta': 0.29.0_solid-js@1.6.2
       '@solidjs/router': 0.6.0_solid-js@1.6.2
       '@types/cookie': 0.5.1
       '@vinxi/vite-plugin-inspect': 0.6.27_rollup@2.79.1+vite@4.0.0
